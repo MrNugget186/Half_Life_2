@@ -1,0 +1,22 @@
+header{
+    height: 780px;
+    background-color: rgb(228, 227, 227);
+    text-align: center;
+    color: rgb(245, 142, 9);
+    padding: 50px;
+    font-size: 50px;
+    background-image: url(https://static.wikia.nocookie.net/half-life/images/f/f2/City_17_destroyed_Citadel_forest_view.jpg/revision/latest?cb=20090121190025&path-prefix=en);
+    background-size: contain;
+}
+
+body{
+    margin: 0px;
+}
+main{
+    height: 28000px;
+    background-color: rgb(32, 32, 32);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 50px;
+    font-size: 50px;
+}
